@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="../wiki/assets/logo_golden.svg" width="200"/>
+    <img src="../wiki/assets/bravetroops.svg" width="200"/>
   </picture>
 
 <div>&nbsp;</div>
